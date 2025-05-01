@@ -4,6 +4,8 @@
   <strong> 🐉 ⛩️ 🥷  </strong>
 </div>
 
+<br>
+
 <div align="center">
   Um game com estética oriental incrível, construído com a plataforma de programação em blocos Construct 3!
 </div>
@@ -28,20 +30,10 @@ Cada decisão moldará sua jornada na batalha contra as trevas.
 > O jogo disponível no link abaixo é uma versão beta de Legends of the East.
 >Abaixo, você encontrará o escopo completo do projeto, incluindo o enredo completo e todos os detalhes planejados para a versão final.
 
-📃 Link Documentação: [--------------------link----------------------]
+> [!NOTE]
+>📃 Link Documentação: https://cultured-dash-e1d.notion.site/Legends-of-the-East-1c88cd950f3580e3ab32f721597d3784?pvs=4
 
 ## 👾 Imagens da aplicação
-
-
-## 📊 Banco de dados
-
-Utilizei o banco de dados NoSQL Firebase, abaixo temos um print com o ranking, o qual recebe os dados do game e os envia para exibição da lista dos pontuadores.
-
-<div align="center">
-    <img src="./sprites/imgPrintDatabase.png" alt="Print database">
-</div>
-
-## 🥋 Imagens e link da aplicação
 
 <div align="center">
     <img src="./sprites/imgInit.png" alt="Print init">
@@ -50,4 +42,16 @@ Utilizei o banco de dados NoSQL Firebase, abaixo temos um print com o ranking, o
     <img src="./sprites/imgDetalhes.png" alt="Print init">
 </div>
 
-Link da aplicação: [--------------link---------------------]
+## 📊 Banco de dados
+
+> [!IMPORTANT]
+>Utilizei o banco de dados NoSQL Firebase, abaixo temos um print com o ranking, o qual recebe os dados do game e os envia para exibição da lista dos pontuadores.
+
+<div align="center">
+    <img src="./sprites/imgPrintDatabase.png" alt="Print database">
+</div>
+
+##  🌐 Link da aplicação
+
+> [!NOTE]
+>Link da aplicação: https://depaula06.itch.io/legendsoftheeast
