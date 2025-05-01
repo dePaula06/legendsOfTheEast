@@ -37,9 +37,11 @@ Cada decisão moldará sua jornada na batalha contra as trevas.
 
 <div align="center">
     <img src="./sprites/imgInit.png" alt="Print init">
-    <img src="./sprites/imgHome.png" alt="Print init">
-    <img src="./sprites/imgEscolha.png" alt="Print init">
-    <img src="./sprites/imgDetalhes.png" alt="Print init">
+    <img src="./sprites/imgHome.png" alt="Print home">
+    <img src="./sprites/imgEscolha.png" alt="Print escolha">
+    <img src="./sprites/imgDetalhes.png" alt="Print detalhes">
+    <img src="./sprites/imgGame.png" alt="Print game">
+    <img src="./sprites/imgGameOver.png" alt="Print game over">
 </div>
 
 ## 📊 Banco de dados
